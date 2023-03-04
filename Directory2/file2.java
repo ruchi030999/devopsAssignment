@@ -1,1 +1,1 @@
-You are in file2
+File2 has been edited in new branch
